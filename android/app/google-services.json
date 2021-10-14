@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081516091387",
+    "project_id": "bts-reels",
+    "storage_bucket": "bts-reels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081516091387:android:bf5a89644aa2de197f8d5e",
+        "android_client_info": {
+          "package_name": "com.example.btsreels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081516091387-v2qbs3akhraeakstd0ukn65l575jt3mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmsxrps8cJcoiVCVuP897vwmt0BY102is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081516091387-v2qbs3akhraeakstd0ukn65l575jt3mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
